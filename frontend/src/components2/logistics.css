@@ -1,0 +1,21 @@
+/* logistics.css */
+
+/* Add your custom styling here */
+.btn-logistics {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-logistics:hover {
+    background-color: #45a049;
+  }
+  

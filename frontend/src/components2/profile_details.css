@@ -1,0 +1,25 @@
+.profilediv {
+    width: 500px;
+    height: 500px;
+    background: white;
+    color: blue;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn.btn-primary {
+    margin-left: 0;
+    width: 420px;
+    text-align: center;
+}
